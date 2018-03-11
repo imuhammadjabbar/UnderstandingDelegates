@@ -26,7 +26,7 @@ class VCB: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        //--->>>
+        //--->>> Changing Button color to Random
         self.btnSendMessage.backgroundColor = UIColor.randomColor;
     }
 
